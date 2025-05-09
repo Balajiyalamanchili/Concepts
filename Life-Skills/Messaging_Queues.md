@@ -2,7 +2,6 @@
 
 This technical paper explains the concept of Messaging Queues and the Enterprise Message Bus (EMB). It includes what they are, why they are used, popular tools, and how they help in building scalable and reliable systems.
 
----
 
 ## Table of Contents
 
@@ -12,7 +11,6 @@ This technical paper explains the concept of Messaging Queues and the Enterprise
 4. [What Is Enterprise Message Bus?](#what-is-enterprise-message-bus)
 5. [References](#references)
 
----
 
 ## What Are Messaging Queues?
 
@@ -20,7 +18,6 @@ Messaging Queues are software tools that allow different parts of an application
 
 A messaging queue stores messages until the receiver is ready to use them. It is useful in applications like chat apps, order processing, and notifications.
 
----
 
 ## Why Are Messaging Queues Used?
 
@@ -32,7 +29,6 @@ Messaging Queues are used for many reasons:
 * **Scalability** – Makes it easy to add more services when the system grows.
 * **Asynchronous Processing** – Tasks like email sending or video processing can happen in the background.
 
----
 
 ## Popular Messaging Queue Tools
 
@@ -44,7 +40,6 @@ Some widely used tools that support messaging queues:
 * **ActiveMQ** – Fast, enterprise-ready messaging system built in Java.
 * **Redis Pub/Sub** – Lightweight in-memory publish/subscribe system.
 
----
 
 ## What Is Enterprise Message Bus?
 
