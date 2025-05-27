@@ -10,7 +10,6 @@
 - Going for small walk or just staring at sky
 - Sitting alone quietly and thinking 
 
----
 
 ## 2. Stress Quadrant - When I feel stress?
 
@@ -20,7 +19,6 @@
 - If my laptop Wi-Fi gives trouble during working 
 - While fixing bugs in code and nothing is working
 
----
 
 ## 3. Excitement Quadrant - How I know I'm excited?
 
@@ -30,7 +28,6 @@
 - While building something creative projects  
 - While typing fast and code is running correctly  
 
----
 
 ## 4. Sleep is Your Superpower - Video Summary
 
@@ -41,7 +38,6 @@
 - Keeps emotions in control  
 - Sleep makes brain work like pro  
 
----
 
 ## 5. How I can sleep better?
 
@@ -52,7 +48,6 @@
 - Keep room dark and fan speed perfect
 - Avoid thinking about bugs or errors while lying down 
 
----
 
 ## 6. Brain Changing Benefits of Exercise
 
@@ -63,7 +58,6 @@
 - Helps sleep better after workout  
 - Makes you more confident even in interviews 
 
----
 
 ## 7. How to do more exercise?
 
@@ -74,5 +68,4 @@
 - Set alarm to stand up every 1 hour while working
 - Join a friend for jog/walk so it won’t feel boring  
 
----
 
